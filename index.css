@@ -1,0 +1,273 @@
+.f1{
+    background-color: green;
+color: white;
+padding: 8px;
+}
+.img{
+    color:black;
+    height: 10px;
+    width: 10px;
+}
+.f2{
+   
+    width: auto;
+    margin: -75px 47px;
+
+}
+.f3{
+font-size: large;
+margin: -15px 350px;
+}
+.f4{
+    margin: -18px 500px;
+}
+.f5{
+    margin: -18px 665px;
+}
+.f6{
+  margin: -18px 830px;
+  width: 100vw;
+}
+.r1{
+    color: green;
+    font-size: 24px;
+    font-family: Arial;
+    margin: 80px 100px;
+}
+.r2{
+    color: green;
+    margin: -108px 264px;
+    font-size: 24px;
+}
+.r3{
+    color: green;
+    font-size: 24px;
+    font-family: Arial;
+    margin: 80px 555px;
+}
+.r4{
+    color: green;
+    margin: -78px 103px;
+    font-size: 24px;
+}
+.aril{
+    margin: 90px 30px;
+}
+.q1{
+    margin: -560px 928px;
+    color: white;
+   font-size: 90px; 
+}
+.q2{
+    margin: 537px 923px;
+    color: white;
+    width: 900px;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.q3{
+    margin: -539px 925px;
+    color: white;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.e1{
+    border-radius: 20px;
+    background-color: red;
+    margin: 530px 947px;
+    width: 90px;
+}
+.bac{
+    background-color: green;
+    margin-top: -362px;
+    margin-left: -8px;
+    width: 1516px;
+    height: 480px;
+}
+.ak
+    {
+        width: 106%;
+        margin-left: -52px;
+}
+.rt{
+    margin-top: 108px;  
+    margin-left: 146px;
+}
+.gate{
+    margin: -445px 99px;
+    color: white;
+    font-size: 33px;
+
+}
+.some{
+    margin-top: 405px;
+    margin-left: 266px;
+    color: white;
+    font-size: 33px;
+    font-weight: bold;
+
+}
+.boder{
+   /* background-color: lightgreen;
+    margin: 34.4px 500px;
+    margin-top: 27px;
+    margin-left: 132px;
+    margin-right: 920px;
+    width: 404px;
+    height: 346px; */
+    background-color:rgb(118, 247, 118);
+    margin: 3% 11%;
+    padding: 9%;
+    border-radius: 10px;
+    width: 20%;
+}
+.boder1{
+    background-color:rgb(118, 247, 118);
+    margin: -22% 53%;
+    padding: 9%;
+    border-radius: 10px;
+    width: 20%;
+}
+.nem{
+    margin-top: 50px;
+    margin-left:200px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nem1{
+    margin-top: 7px;
+    margin-left: 200px;
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.img1{
+    margin-top: -4px;
+    margin-left: 232px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.text{
+    margin-top: -93px;
+    margin-left: 877px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+.text1{
+    margin-top: -2px;
+    margin-left: 877px;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.img2{
+    margin-top: -5px;
+    margin-left: 978px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/* .boder2{
+    background-color: white;
+    margin: 250px -12px;
+    padding: 100%;
+    
+    width: 100%;
+} */
+.text2{
+    margin-top: 320px;
+    margin-left: 176px;
+    color:green;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text3{
+    margin-top: 6px;
+    margin-left: 180px;
+    color: green;
+    font-size: 18px;
+    font-weight: lighter;
+
+}
+.img3{
+    margin-top: -131px;
+    margin-left: 484px;
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.png{
+    border-radius: 20px;
+    background-color: red;
+    margin: -20px 186px;
+    width: 95px;
+}
+.cloth{
+  
+    margin-top: 855px;
+    margin-left: -8px;
+    width: 1516px;
+    height: 480px;
+}
+.text4{
+    margin-top: -413px;
+    margin-left: 872px;
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+.mak{
+ 
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 6px;
+    margin-top: 5px;
+    margin-bottom: -155px;
+    margin-left: 862PX;
+    height: 20px;
+    width: 305px;
+}
+.meta{
+    color: green;
+    margin-top: 159px;
+    margin-left: 877px;
+    font-size: 22px;
+    font-weight: bold;
+
+
+}
+.fix{
+    margin-top: -20px;
+    margin-left: 877px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;      
+    border-radius: 40px;
+    background-color: red;
+}
+.stain{
+    margin-top: -284px;
+    color: green;
+    font-weight: bold;
+
+    margin-left: 1199px;
+    padding: 40px;
+    width: 100px;
+    font-size: 25px;
+   
+}
+.can{
+    margin-top: 180px;
+    margin-left: 886px;
+    margin-right: 40px;
+}
+.stape{
+    
+}
